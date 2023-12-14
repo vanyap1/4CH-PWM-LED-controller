@@ -1,0 +1,45 @@
+[Eagle]
+Version="09 06 02"
+Platform="Windows"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibraryUrn="urn:adsk.eagle:library:210"
+UsedLibraryUrn="urn:adsk.eagle:library:399"
+UsedLibrary="C:/EAGLE/libraries/20279-001E-03.lbr"
+UsedLibrary="C:/EAGLE/libraries/ATSAMD21J18A-AU.lbr"
+UsedLibrary="C:/EAGLE/libraries/DL-RFM69HC.lbr"
+UsedLibrary="C:/EAGLE/libraries/INA226AIDGSR.lbr"
+UsedLibrary="C:/EAGLE/libraries/MAX44009EDT_T.lbr"
+UsedLibrary="C:/EAGLE/libraries/con-lstb.lbr"
+UsedLibrary="C:/EAGLE/libraries/custom/Custom connectors.lbr"
+UsedLibrary="C:/EAGLE/libraries/custom/passive_components.lbr"
+UsedLibrary="C:/EAGLE/libraries/custom/SparkFun.lbr"
+UsedLibrary="C:/EAGLE/libraries/custom/TYPE-C-31-M-12.lbr"
+UsedLibrary="C:/EAGLE/libraries/custom/my_IC.lbr"
+UsedLibrary="C:/EAGLE/libraries/custom/micro_SD_DM3AT-SF-PEJM5.lbr"
+UsedLibrary="C:/EAGLE/libraries/custom/eagle_lib/switch.lbr"
+UsedLibrary="C:/EAGLE/libraries/custom/NXP - PCA9535BS,118.lbr"
+UsedLibrary="C:/EAGLE/libraries/custom/eagle_lib/transistor-power.lbr"
+UsedLibrary="C:/EAGLE/libraries/custom/Power.lbr"
+UsedLibrary="C:/EAGLE/libraries/custom/LD1117S33CTR.lbr"
+UsedLibrary="C:/EAGLE/libraries/custom/relays.lbr"
+UsedLibrary="C:/EAGLE/libraries/custom/eagle_lib/diode.lbr"
+UsedLibrary="C:/EAGLE/libraries/custom/eagle_lib/con-harting-ml.lbr"
+UsedLibrary="C:/EAGLE/libraries/custom/eagle_lib/opto-trans-siemens.lbr"
+UsedLibrary="C:/EAGLE/libraries/custom/eagle_lib/led.lbr"
+UsedLibrary="C:/EAGLE/libraries/custom/eagle_lib/buzzer.lbr"
+UsedLibrary="C:/EAGLE/libraries/custom/avr-7.lbr"
+UsedLibrary="C:/EAGLE/libraries/custom/rcl.lbr"
+UsedLibrary="C:/EAGLE/libraries/custom/eagle_lib/crystal.lbr"
+UsedLibrary="C:/EAGLE/libraries/custom/eagle_lib/resistor-shunt.lbr"
+
+[Win_1]
+Type="Control Panel"
+Number=0
+
+[Desktop]
+Screen="1920 1080"
+Window="Win_1"
